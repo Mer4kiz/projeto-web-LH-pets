@@ -1,0 +1,6 @@
+D:\Senai\atividadeCBE2\obj\Debug\net8.0\atividadeCBE2.csproj.AssemblyReference.cache
+D:\Senai\atividadeCBE2\obj\Debug\net8.0\atividadeCBE2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\atividadeCBE2\obj\Debug\net8.0\atividadeCBE2.AssemblyInfoInputs.cache
+D:\Senai\atividadeCBE2\obj\Debug\net8.0\atividadeCBE2.AssemblyInfo.cs
+D:\Senai\atividadeCBE2\obj\Debug\net8.0\atividadeCBE2.csproj.CoreCompileInputs.cache
+D:\Senai\atividadeCBE2\obj\Debug\net8.0\atividadeCBE2.MvcApplicationPartsAssemblyInfo.cache
